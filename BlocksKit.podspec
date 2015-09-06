@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage              = 'https://zwaldowski.github.io/BlocksKit'
   s.author                = { 'Zachary Waldowski' => 'zach@waldowski.me',
                               'Alexsander Akers'  => 'a2@pnd.mn' }
-  s.source                = { :git => 'https://github.com/zwaldowski/BlocksKit.git', :tag => "v#{s.version}" }
+  s.source                = { :git => 'https://github.com/toto/BlocksKit.git', :tag => "v#{s.version}" }
   s.requires_arc          = true
   s.osx.deployment_target = '10.8'
   s.ios.deployment_target = '6.0'
